@@ -15,7 +15,6 @@ In this project, I developed a scalable and efficient Data Processing Pipeline f
 ## Tools and Technologies
 - **Programming Languages**: Python, SQL
 - **Libraries and Frameworks**: PySpark, scikit-learn, DBSCAN
-- **Platforms**: Azure Databricks
 - **Techniques**: Data preprocessing, EDA, clustering, active learning, feature engineering
 
 ## Impact
