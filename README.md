@@ -3,7 +3,7 @@ In this project, I developed a scalable and efficient Data Processing Pipeline f
 
 ### Major Components of the Project
 - **Scalable Data Processing**: Developed a data processing pipeline using PySpark within Azure Databricks to handle large datasets efficiently.
-- **Data Preprocessing and EDA**: Preprocessed data and performed exploratory data analysis to uncover insights and patterns.
+- **Data Preprocessing and EDA**: Cleaned data and performed exploratory data analysis to uncover insights and patterns.
 - **Feature Engineering**: Conducted advanced feature engineering to enhance the predictive power of the models.
   
 ### Other explorations:
