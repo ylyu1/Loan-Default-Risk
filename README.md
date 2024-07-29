@@ -17,7 +17,6 @@ The Data Processing Pipeline for Loan Default Risk is a scalable and efficient s
 - **Techniques**: Data preprocessing, EDA, clustering, active learning, feature engineering
 
 ## Impact
-The Data Processing Pipeline for Loan Default Risk has significantly improved the lending company's ability to analyze and predict loan defaults by:
 - Enhancing data scalability and handling large datasets efficiently.
 - Providing insights through thorough exploratory data analysis.
 - Identifying distinct customer segments for targeted strategies.
