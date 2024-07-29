@@ -1,14 +1,16 @@
 # Data Processing Pipeline for Loan Default Risk
 
 ## Project Overview
-In this project, I wrote a Data Processing Pipeline based on Loan Default Risk Data as a scalable and efficient solution for a lending company. Leveraging PySpark, this project focuses on preprocessing data, conducting exploratory data analysis (EDA) and feature engineering.
+In this project, I developed a scalable and efficient Data Processing Pipeline for analyzing Loan Default Risk Data from a lending company. Leveraging PySpark, this pipeline focuses on preprocessing data, conducting exploratory data analysis (EDA), and performing feature engineering.
 
 ## Major Components of the Project
 - **Scalable Data Processing**: Developed a data processing pipeline using PySpark within Azure Databricks to handle large datasets efficiently.
 - **Data Preprocessing and EDA**: Preprocessed data and performed exploratory data analysis to uncover insights and patterns.
+- **Feature Engineering**: Conducted advanced feature engineering to enhance the predictive power of the models.
+  
+## Other explorations:
 - **Customer Clustering**: Employed DBSCAN for clustering customers from unlabeled data, identifying distinct customer segments.
 - **Active Learning and Data Augmentation**: Used active learning techniques to augment data and improve model performance.
-- **Feature Engineering**: Conducted advanced feature engineering to enhance the predictive power of the models.
 
 ## Tools and Technologies
 - **Programming Languages**: Python, SQL
