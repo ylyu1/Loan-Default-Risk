@@ -21,4 +21,4 @@ In this project, I developed a scalable and efficient Data Processing Pipeline f
 - Enhancing data scalability and handling large datasets efficiently.
 - Providing insights through thorough exploratory data analysis.
 - Streamlining the data processing workflow, resulting in more efficient loan default analysis.
-- Saved 30% time in manual processing and analyzing the data.
+- Saved at least 30% time in manual processing and analyzing the data.
